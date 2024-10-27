@@ -1,0 +1,15 @@
+name: AgoraKube
+description: An Ansible-based Kubernetes distribution for efficient container orchestration.
+website: https://github.com/ilkilab/agorakube
+tags:
+  - containers
+  - ansible
+  - kubernetes
+
+contribution:
+  label: up-for-grabs
+  link: https://github.com/ilkilab/agorakube/labels/up-for-grabs
+
+statistics:
+  open-issues: 0
+  forks: 52
